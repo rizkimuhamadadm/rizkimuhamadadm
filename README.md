@@ -1,41 +1,45 @@
-# Rizki Muhamad Adam
+<div align="center">
 
-Hi, welcome to my GitHub profile! Saya adalah seorang *junior-to-intermediate developer* yang saat ini fokus mendalami *web development*, *scripting* dengan Python, serta mempelajari *cybersecurity* secara otodidak (*self-taught*).
+# Hi there, I'm Rizki Muhamad Adam 👋
 
-Menurut saya, cara paling efektif untuk memahami teknologi adalah melalui *hands-on practice* langsung ngulik, membangun *side projects* dan mencatat hal-hal baru yang dipelajari. Akun ini menjadi ruang bagi saya untuk menyimpan berbagai *code experiments*, *learning notes*, serta proyek latihan sehari-hari.
+Junior-to-Intermediate Developer | Web Developer & Cybersecurity Enthusiast
 
----
-
-### About Me
-
-Sehari-hari, saya membagi waktu antara memperkuat *coding fundamentals* dan memahami bagaimana sebuah sistem bekerja agar tetap aman. Sebagai pembelajar otodidak dibidang *cybersecurity*, saya tertarik mengeksplorasi *networking*, celah keamanan pada *web apps*, serta bagaimana menerapkan *secure code* sejak tahap pengembangan.
-
-* **Web Development:** Membangun tampilan web yang *responsive* dan interaktif menggunakan HTML, CSS dan JavaScript.
-* **Python & Scripting:** Menggunakan Python untuk melatih logika, *basic data processing* serta membuat *automation scripts* agar pekerjaan lebih praktis.
-* **Cybersecurity (Self-Taught):** Mempelajari *networking basics*, pembiasaan lingkungan Linux, konsep dasar *pentesting* dan analisis *web vulnerabilities*.
+</div>
 
 ---
 
-### Tech Stack
+### 💻 About Me
 
-Bahasa dan teknologi yang saat ini sering saya gunakan (*currently using & exploring*):
+Saya adalah seorang pembelajar otodidak (*self-taught*) yang percaya bahwa cara paling efektif untuk menguasai teknologi adalah melalui *hands-on practice* langsung ngulik, membangun *side projects* dan mencatat setiap hal baru yang dipelajari. Account ini adalah ruang saya untuk mendokumentasikan *code experiments*, *learning notes* dan proyek latihan sehari-hari.
 
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
----
-
-### Current Focus
-
-* **Writing Cleaner Code:** Tidak sekadar membuat program berjalan, tetapi mulai membiasakan menyusun struktur kode yang *clean*, rapi dan *maintainable*.
-* **Building Real Projects:** Menggabungkan logika *backend* sederhana dengan tampilan *frontend* menjadi aplikasi kecil yang fungsional.
-* **Exploring Web Security:** Memahami celah keamanan umum seperti OWASP Top 10 dan mempraktikkan mitigasinya di *local lab*.
-* **Open Documentation:** Mendokumentasikan materi belajar di *repository* agar mudah dibuka kembali saat dibutuhkan, sekaligus bermanfaat bagi pembelajar lainnya.
+* **Web Development:** Membangun antarmuka web yang *responsive*, dinamis dan interaktif menggunakan HTML, CSS serta JavaScript.
+* **Python & Scripting:** Menggunakan Python untuk mengasah logika pemrograman, *basic data processing* dan membuat *automation scripts* praktis.
+* **Cybersecurity:** Mempelajari dasar-dasar *networking*, terbiasa dengan lingkungan Linux, serta memahami konsep *pentesting* dan analisis kerentanan web.
 
 ---
 
-### GitHub Stats
+### 🛠️ Tech Stack
 
-![Statistik GitHub](https://vercel.app)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+---
+
+### 🎯 Current Focus
+
+* **Writing Cleaner Code:** Membiasakan diri menulis struktur kode yang rapi dan *maintainable*.
+* **Building Real Projects:** Menggabungkan logika *backend* sederhana dengan antarmuka *frontend* fungsional.
+* **Exploring Web Security:** Mempelajari OWASP Top 10 dan mempraktikkan mitigasinya dilingkungan *local lab*.
+* **Open Documentation:** Mendokumentasikan materi belajar agar mudah diakses kembali sekaligus bermanfaat bagi sesama pembelajar.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkimuhamadadm&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</div>
